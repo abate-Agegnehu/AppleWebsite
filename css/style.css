@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header {
+  z-index: 1;
+}
+.logo,
+.search,
+.cart {
+  width: 18px;
+}
+.macbookpro {
+  background-color: #fafafa;
+}
+.background {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+}
+.iponepro11 {
+  background-image: url(../images/home/iphone11-pro-bg.jpg);
+}
+.iphone11 {
+  background-image: url(../images/home/iphone11-bg.jpg);
+}
+.watch {
+  background-image: url(../images/home/watch-series-5.jpg);
+}
+.card_container {
+  background-image: url(../images/home/apple-card.jpg);
+}
+.tv {
+  background-image: url(../images/home/apple-tv-background.jpg);
+}
+.air_pods {
+  background-color: black;
+}
+.new_ipad {
+  background-image: url(../images/home/new-ipad.jpg);
+}
